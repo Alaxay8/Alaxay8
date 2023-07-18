@@ -31,3 +31,5 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/alexey-cherednichenko-b7b61b174/)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alaxay8)](https://github.com/Alaxay8/Alaxay8)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
