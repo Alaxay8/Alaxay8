@@ -29,3 +29,5 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/alaxay)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/alaxay)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/alexey-cherednichenko-b7b61b174/)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexeyshpavda)](https://github.com/Alaxay8/Alaxay8)
