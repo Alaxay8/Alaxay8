@@ -1,4 +1,4 @@
-### Hi there 👋
+p### Hi there 👋
 
 
 
@@ -44,3 +44,7 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=alaxay8&show_icons=true" />
 </picture>
+
+
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+          
