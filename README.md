@@ -14,17 +14,6 @@ p### Hi there 👋
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 
-
- <a href="https://vk.com/alaxay" rel="nofollow">
-      <img src="https://camo.githubusercontent.com/e8005e7cba12a7d7a844030ba9a19259bf56e6b5e921b4053aa82f7a7b38fe60/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f3134352f3134353831332e706e67" width="40" height="40" alt="VK Badge" data-canonical-src="https://cdn-icons-png.flaticon.com/512/145/145813.png" style="max-width: 100%;">
-    </a>
-
-
-
-
-<a href="mailto:alaxay8@gmail.com"><img src="https://camo.githubusercontent.com/a8c761056c822bf3e282450650e6c75bec1fb22acff08241e477faf8572b4b7e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d7265643f7374796c653d666c6174266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465" alt="Gmail Badge" data-canonical-src="https://img.shields.io/badge/-Gmail-red?style=flat&amp;logo=Gmail&amp;logoColor=white" style="max-width: 100%;"></a></p>
-</li>
-
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/alaxay)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/alaxay)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/alexey-cherednichenko-b7b61b174/)
@@ -47,5 +36,6 @@ p### Hi there 👋
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="100" height="100"  />
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="100" height="100"  />
           
           
