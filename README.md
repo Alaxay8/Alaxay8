@@ -32,9 +32,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alaxay8&theme=dark)
 
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alaxay8&theme=dark" style="display:inline-block; margin-right: 20px;"/>
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Alaxay8&theme=dark" style="display:inline-block;"/>
 
 
 
