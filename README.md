@@ -56,7 +56,7 @@
 
 
 
-Hello everyone, my name is Alexey Cherednichenko.
+### Hi, there. I'm Alexey Cherednichenko.
 
 Currently, I work as an engineer in a large company, responsible for high-load systems critical to the business.
 
@@ -90,7 +90,7 @@ Graduated from Moscow Technical University of Communications and Informatics\
 🇨🇳 Studying the Chinese language\
 🎹 Learning to play the piano\
 🚭 I don't have any harmful habits\
-🇺🇸 I can speak English.\
+🇺🇸 I can speak English.
 
 
 ## Contact me
