@@ -86,11 +86,11 @@ Alexey Cherednichenko.
 
 ## Some facts about me:
 
-Graduated from Moscow Technical University of Communications and Informatics
-🇨🇳 Studying the Chinese language
-🎹 Learning to play the piano
-🚭 I don't have any harmful habits
-🇺🇸 I can speak English.
+Graduated from Moscow Technical University of Communications and Informatics\
+🇨🇳 Studying the Chinese language\
+🎹 Learning to play the piano\
+🚭 I don't have any harmful habits\
+🇺🇸 I can speak English.\
 
 
 ## Contact me
