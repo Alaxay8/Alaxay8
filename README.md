@@ -47,3 +47,28 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/alaxay)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/alaxay)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/alexey-cherednichenko-b7b61b174/)
+
+
+
+
+
+
+
+Hello everyone, my name is Alexey Cherednichenko.
+
+Currently, I work as an engineer in a large company, responsible for high-load systems critical to the business.
+
+My primary technology stack is Java, and I'm deeply interested in its development and programming.
+
+I admire the Spring Framework and all server/cloud-related technologies associated with it. My goal is to become an expert in this field and continue to deepen my knowledge and skills.
+
+Additionally, I have experience working with modern development methodologies like Agile and Scrum, and I actively apply Kanban principles in my work.
+
+My goal on GitHub is to share my experiences and knowledge and actively engage with the developer community. Here, you will find repositories with my projects related to Java, Spring, and other exciting technologies.
+
+If you have any questions, suggestions, or just want to chat, feel free to reach out to me.
+
+Thank you for your interest in my profile. I hope you find something useful and interesting here!
+
+Best regards,
+Alexey Cherednichenko.
