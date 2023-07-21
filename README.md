@@ -36,7 +36,7 @@
 
 
 ## Некоторые факты обо мне
-Закончил Московский Технический Университет Связи и Информатики\
+🎓Закончил Московский Технический Университет Связи и Информатики\
 🇨🇳Изучаю китайский язык\
 🎹Учусь играть на фортепиано\
 🚭Не имею вредных привычек\
@@ -82,7 +82,7 @@ Alexey Cherednichenko.
 
 ## Some facts about me:
 
-Graduated from Moscow Technical University of Communications and Informatics\
+🎓Graduated from Moscow Technical University of Communications and Informatics\
 🇨🇳 Studying the Chinese language\
 🎹 Learning to play the piano\
 🚭 I don't have any harmful habits\
