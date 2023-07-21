@@ -36,6 +36,7 @@
 
 
 ## Некоторые факты обо мне
+Закончил Московский Технический Университет Связи и Информатики\
 🇨🇳Изучаю китайский язык\
 🎹Учусь играть на фортепиано\
 🚭Не имею вредных привычек\
@@ -47,7 +48,7 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/alaxay)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/alaxay)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/alexey-cherednichenko-b7b61b174/)
-[![Gmail](https://img.shields.io/badge/-gmail-090909?style=for-the-badge&logo=gmail&logoColor=FF0000)](https://vk.com/alaxay)
+[![Gmail](https://img.shields.io/badge/-gmail-090909?style=for-the-badge&logo=gmail&logoColor=#8B0000)](https://vk.com/alaxay)
 
 
 
