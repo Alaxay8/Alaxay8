@@ -49,6 +49,7 @@
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/alaxay)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/alexey-cherednichenko-b7b61b174/)
 [![Gmail](https://img.shields.io/badge/-gmail-090909?style=for-the-badge&logo=gmail&logoColor=#8B0000)](mailto:alaxay8@gmail.com)
+[![Wechat](https://img.shields.io/badge/-wechat-090909?style=for-the-badge&logo=wechat&logoColor=#8B0000)](https://msngr.link/wc/alaxay8)
 
 
 
