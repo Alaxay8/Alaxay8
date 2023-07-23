@@ -43,8 +43,8 @@
 🇺🇸Могу говорить по-английски.
 
 https://www.codewars.com/users/Alaxay8/badges/large
-<img src="https://www.codewars.com/users/Alaxay8/badges/large" width="100" height="100" />
-[![Telegram](](https://www.codewars.com/users/Alaxay8/badges/large)](https://t.me/alaxay)
+<img src="https://www.codewars.com/users/Alaxay8/badges/large"/>
+[![Telegram](](https://www.codewars.com/users/Alaxay8/badges/large)]
 
 
 
