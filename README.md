@@ -66,7 +66,7 @@
 
 ### Hi, there. I'm Alexey Cherednichenko.
 
-Currently, I work as an engineer in a large company, responsible for high-load systems critical to the business.
+Currently, I work as an engineer in a large company, responsible for high-load systems critical to the business. 
 
 My primary technology stack is Java, and I'm deeply interested in its development and programming.
 
