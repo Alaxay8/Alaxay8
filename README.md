@@ -27,6 +27,8 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="100" height="100" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="100" height="100" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original-wordmark.svg" width="100" height="100" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="100" height="100" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" width="100" height="100"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original-wordmark.svg" width="100" height="100"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="100" height="100"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-plain-wordmark.svg" width="100" height="100" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg" width="100" height="100" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-plain.svg" width="100" height="100" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="100" height="100" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" width="100" height="100" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original-wordmark.svg" width="100" height="100" />
 
+
+<img src="https://www.codewars.com/users/Alaxay8/badges/large"/>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alaxay8&theme=dark)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Alaxay8&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Alaxay8&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alaxay8&theme=dark)
@@ -42,9 +44,8 @@
 🚭Не имею вредных привычек\
 🇺🇸Могу говорить по-английски.
 
-https://www.codewars.com/users/Alaxay8/badges/large
-<img src="https://www.codewars.com/users/Alaxay8/badges/large"/>
-[![Telegram](](https://www.codewars.com/users/Alaxay8/badges/large)]
+
+
 
 
 
