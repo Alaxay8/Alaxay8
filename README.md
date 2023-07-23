@@ -44,7 +44,7 @@
 
 https://www.codewars.com/users/Alaxay8/badges/large
 <img src="https://www.codewars.com/users/Alaxay8/badges/large" width="100" height="100" />
-[![Telegram](](https://t.me/alaxay
+[![Telegram](](https://www.codewars.com/users/Alaxay8/badges/large)](https://t.me/alaxay)
 
 
 
