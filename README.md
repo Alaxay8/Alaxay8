@@ -55,7 +55,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/alexey-cherednichenko-b7b61b174/)
 [![Instagram](https://img.shields.io/badge/-instagram-090909?style=for-the-badge&logo=instagram&logoColor=007BB6)](https://instagram.com/alaxay8/)
 [![Gmail](https://img.shields.io/badge/-gmail-090909?style=for-the-badge&logo=gmail&logoColor=#8B0000)](mailto:alaxay8@gmail.com)
-[![Wechat](https://img.shields.io/badge/-wechat-090909?style=for-the-badge&logo=wechat&logoColor=#8B0000)](https://msngr.link/wc/alaxay8)
+[![Wechat](https://img.shields.io/badge/-wechat-090909?style=for-the-badge&logo=wechat&logoColor=#8B0000)](https://i.imgur.com/mqHNQOe.jpeg)
 
 
 
@@ -102,4 +102,4 @@ Alexey Cherednichenko.
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/alexey-cherednichenko-b7b61b174/)
 [![Instagram](https://img.shields.io/badge/-instagram-090909?style=for-the-badge&logo=instagram&logoColor=007BB6)](https://instagram.com/alaxay8/)
 [![Gmail](https://img.shields.io/badge/-gmail-090909?style=for-the-badge&logo=gmail&logoColor=#8B0000)](mailto:alaxay8@gmail.com)
-[![Wechat](https://img.shields.io/badge/-wechat-090909?style=for-the-badge&logo=wechat&logoColor=#8B0000)](https://msngr.link/wc/alaxay8)
+[![Wechat](https://img.shields.io/badge/-wechat-090909?style=for-the-badge&logo=wechat&logoColor=#8B0000)](https://i.imgur.com/mqHNQOe.jpeg)
