@@ -25,7 +25,7 @@ I specialize in bridging the gap between development and operations by building 
 ---
 
 ### 📈 GitHub Activities
-| ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true) |
+| ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=alaxay8&show_icons=true&theme=transparent&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alaxay8&layout=compact&theme=transparent&hide_border=true) |
 | ------------- | ------------- |
 
 ---
@@ -38,3 +38,4 @@ I specialize in bridging the gap between development and operations by building 
 ---
 
 > "If it’s not automated, it’s broken." 🤖
+
