@@ -18,7 +18,7 @@ I specialize in bridging the gap between development and operations by building 
 
 **Cloud & Platforms** ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white)
 
-**IaC & Automation** ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat-square&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=flat-square&logo=ansible&logoColor=white) ![Helm](https://img.shields.io/badge/helm-%230F1628.svg?style=flat-square&logo=helm&logoColor=white) ![Pulumi](https://img.shields.io/badge/pulumi-%238A3391.svg?style=flat-square&logo=pulumi&logoColor=white)
+**IaC & Automation** ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat-square&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=flat-square&logo=ansible&logoColor=white) ![Helm](https://img.shields.io/badge/helm-%230F1628.svg?style=flat-square&logo=helm&logoColor=white)
 
 **CI/CD & Tools** ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&logo=github-actions&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![ArgoCD](https://img.shields.io/badge/argo%20cd-%23ef7b4d.svg?style=flat-square&logo=argo&logoColor=white)
 
@@ -38,5 +38,6 @@ I specialize in bridging the gap between development and operations by building 
 ---
 
 > "If it’s not automated, it’s broken." 🤖
+
 
 
