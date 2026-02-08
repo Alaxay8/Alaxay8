@@ -16,7 +16,7 @@ I specialize in bridging the gap between development and operations by building 
 
 ### 🛠️ Tech Stack
 
-**Cloud & Platforms** ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoft-azure&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white)
+**Cloud & Platforms** ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white)
 
 **IaC & Automation** ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat-square&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=flat-square&logo=ansible&logoColor=white) ![Helm](https://img.shields.io/badge/helm-%230F1628.svg?style=flat-square&logo=helm&logoColor=white) ![Pulumi](https://img.shields.io/badge/pulumi-%238A3391.svg?style=flat-square&logo=pulumi&logoColor=white)
 
@@ -38,4 +38,5 @@ I specialize in bridging the gap between development and operations by building 
 ---
 
 > "If it’s not automated, it’s broken." 🤖
+
 
