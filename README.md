@@ -1,5 +1,5 @@
 # Hi, I'm Alexey Cherednichenko 👋
-### Senior DevOps / SRE Engineer ☁️ 🏗️
+###  DevOps / SRE Engineer ☁️ 🏗️
 
 I specialize in bridging the gap between development and operations by building scalable, automated, and secure cloud infrastructure. I'm passionate about Infrastructure as Code (IaC), GitOps, and optimizing CI/CD pipelines.
 
@@ -38,6 +38,7 @@ I specialize in bridging the gap between development and operations by building 
 ---
 
 > "If it’s not automated, it’s broken." 🤖
+
 
 
 
