@@ -1,5 +1,5 @@
 # Alexey Cherednichenko
-### DevOps / SRE Engineer | Open to Relocate to Cyprus
+### DevOps / SRE Engineer | Open to Relocate to EU|Cyprus
 
 I build reliable cloud platforms that help engineering teams ship faster and safer.
 My focus is Infrastructure as Code, Kubernetes operations, CI/CD automation, and observability.
@@ -7,7 +7,6 @@ My focus is Infrastructure as Code, Kubernetes operations, CI/CD automation, and
 ---
 
 ### Recruiter Quick Facts
-- **Current location:** Russia (UTC+3)
 - **Relocation target:** Cyprus
 - **Work format:** Full-time, onsite / hybrid / remote
 - **Role focus:** DevOps, SRE, Platform Engineering
@@ -46,6 +45,7 @@ My focus is Infrastructure as Code, Kubernetes operations, CI/CD automation, and
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexey-cherednichenko-b7b61b174/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/alaxay8)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alaxay8@gmail.com)
+
 
 
 
