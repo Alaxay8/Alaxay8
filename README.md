@@ -33,8 +33,6 @@ My focus is Infrastructure as Code, Kubernetes operations, CI/CD automation, and
 
 ---
 
-![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alaxay8&theme=dark)
-
 
 
 
@@ -55,6 +53,7 @@ My focus is Infrastructure as Code, Kubernetes operations, CI/CD automation, and
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexey-cherednichenko-b7b61b174/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/alaxay8)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alaxay8@gmail.com)
+
 
 
 
