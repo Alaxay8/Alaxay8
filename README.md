@@ -9,7 +9,7 @@ My focus is Infrastructure as Code, Kubernetes operations, CI/CD automation, and
 ### Recruiter Quick Facts
 - **Work format:** Full-time, hybrid / remote
 - **Role focus:** DevOps, SRE, Platform Engineering
-- **Contacts:** Email, LinkedIn
+- **Contacts:** Email, LinkedIn, Telegram
 
 ---
 
