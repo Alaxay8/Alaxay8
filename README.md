@@ -4,6 +4,17 @@
 I build reliable cloud platforms that help engineering teams ship faster and safer.
 My focus is Infrastructure as Code, Kubernetes operations, CI/CD automation, and observability.
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=Alaxay8&show_icons=true&theme=radical">
+  <img alt="GitHub stats" src="https://github-readme-stats-fast.vercel.app/api?username=Alaxay8&show_icons=true&theme=default">
+</picture>
+<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Alaxay8&theme=radical">
+  <img alt="Top Langs" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Alaxay8&theme=default">
+</picture>
+
+
 ---
 
 ### Recruiter Quick Facts
