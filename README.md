@@ -4,16 +4,24 @@
 I build reliable cloud platforms that help engineering teams ship faster and safer.
 My focus is Infrastructure as Code, Kubernetes operations, CI/CD automation, and observability.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=Alaxay8&show_icons=true&theme=radical">
-  <img alt="GitHub stats" src="https://github-readme-stats-fast.vercel.app/api?username=Alaxay8&show_icons=true&theme=default">
-</picture>
-<br>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Alaxay8&theme=radical">
-  <img alt="Top Langs" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Alaxay8&theme=default">
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=Alaxay8&show_icons=true&theme=radical&rank_icon=github&border_radius=10">
+    <img alt="GitHub stats" src="https://github-readme-stats-fast.vercel.app/api?username=Alaxay8&show_icons=true&theme=default&rank_icon=github&border_radius=10" width="495">
+  </picture>
 
+  <br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Alaxay8&theme=radical&layout=compact&border_radius=10&card_width=495">
+    <img alt="Top Langs" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Alaxay8&theme=default&layout=compact&border_radius=10&card_width=495" width="495">
+  </picture>
+
+  <br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/streak?username=Alaxay8&theme=radical&border_radius=10">
+    <img alt="GitHub Streak" src="https://github-readme-stats-fast.vercel.app/api/streak?username=Alaxay8&theme=default&border_radius=10" width="495">
+  </picture>
+</div>
 
 ---
 
