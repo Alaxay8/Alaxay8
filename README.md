@@ -72,4 +72,3 @@ My focus is Infrastructure as Code, Kubernetes operations, CI/CD automation, and
     <img alt="GitHub Streak" src="https://github-readme-stats-fast.vercel.app/api/streak?username=Alaxay8&theme=default&border_radius=10" width="495">
   </picture>
 </div>
-.
