@@ -1,5 +1,5 @@
 # Alexey Cherednichenko
-### DevOps / SRE Engineer 
+### DevOps / SRE Engineer
 
 I build reliable cloud platforms that help engineering teams ship faster and safer.
 My focus is Infrastructure as Code, Kubernetes operations, CI/CD automation, and observability.
