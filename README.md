@@ -11,7 +11,6 @@ My focus is modular Infrastructure as Code (Terraform), GitOps-driven deployment
 - **Visa & Relocation:** Open to Kennismigrant (Highly Skilled Migrant) visa sponsorship
 - **Work Format:** Hybrid (Rotterdam area / Randstad) or Remote within NL
 - **Role Focus:** DevOps Engineer, Cloud Platform Engineer, Infrastructure Engineer
-- **Languages:** English (Professional working proficiency), Russian (Native)
 
 ---
 
